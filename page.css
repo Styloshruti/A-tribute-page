@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: whitesmoke;
+    height: 80px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+body {
+    position: relative;
+    background-size: cover;
+}
+
+.image img {
+    height: 518px;
+    width: 1265px;
+    cursor: zoom-in;
+}
